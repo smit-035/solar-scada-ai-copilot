@@ -1,0 +1,12 @@
+{
+  "4135001": {
+    "name": "Plant 1",
+    "capacity_kw": 30800.0,
+    "location": "Gandhinagar, India"
+  },
+  "4136001": {
+    "name": "Plant 2",
+    "capacity_kw": 30800.0,
+    "location": "Jodhpur, India"
+  }
+}

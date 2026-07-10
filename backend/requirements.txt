@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+python-dotenv
+langchain
+langchain-google-genai
+SQLAlchemy
+psycopg2-binary
